@@ -1,0 +1,15 @@
+                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                        <ul class="btn">
+                           <li class="signin_btn"><a href="#">Sign In</a></li>
+                           <li class="signin_btn"><a href="#">Sign Up</a></li>
+                           <li><a href="#"><img class="language-icon" id="top-up-button" alt="Click here to change the current language to Vietnamese." src="images/en.png"></a></li>
+                           <li><button type="button" id="sidebarCollapse">
+                              <img src="images/menu_icon.png" alt="#" />
+                              </button>
+                           </li>
+                        </ul>
+                     </div>
+					 
+line 79 - 89
+					 
+	

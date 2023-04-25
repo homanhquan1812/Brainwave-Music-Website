@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Brainwaves Music Player">
+        <meta name="keywords" content="Brainwaves, Users, Music, Player">
+        <meta name="author" content="Group 7 - BLB">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Brainwaves - Music Player</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link rel="icon" type="image/x-icon" href="blb-icon-modified.ico">
+    </head>
+    <body>
+        <body>
+            <div class="wrapper">
+                <div class="top-bar">
+                    <i class="material-icons" title="Nhấn vào đây để quay về trang chủ" onclick="document.location='https://blob-hcmut.web.app/vi'">chevron_left</i>
+                    <span>Đang nghe bài nhạc</span>
+                    <i class="material-icons" title="Nhấn vào đây để tải bài nhạc về" onclick="window.open('https://drive.google.com/drive/folders/1IJsh68u1zI-1Ijnxr9-qEu5uRmV7UauC?usp=sharing')">download</i>
+                </div>
+                <div class="img-area">
+                    <img src="" alt="">
+                </div>
+                <div class="song-details">
+                    <p class="name"></p>
+                    <p class="artist"></p>
+                </div>
+                <div class="progress-area">
+                    <div class="progress-bar">
+                        <audio id="main-audio" src=""></audio>
+                    </div>
+                    <div class="song-timer">
+                        <span class="current-time">0:00</span>
+                        <span class="max-duration">0:00</span>
+                    </div>
+                </div>
+                <div class="controls">
+                    <i id="repeat-plist" class="material-icons" title="Playlist looped">repeat</i>
+                    <i id="prev" class="material-icons">skip_previous</i>
+                    <div class="play-pause">
+                        <i class="material-icons play">play_arrow</i>
+                    </div>
+                    <i id="next" class="material-icons">skip_next</i>
+                    <i id="more-music" class="material-icons">queue_music</i>
+                </div>
+                <div class="music-list">
+                    <div class="header">
+                    <div class="row">
+                        <i class= "list material-icons">queue_music</i>
+                        <span>Music list</span>
+                    </div>
+                    <i id="close" class="material-icons">close</i>
+                    </div>
+                    <ul>
+                    <!-- here li list are coming from js -->
+                    </ul>
+                </div>
+            </div>
+         
+        <script src="https://kit.fontawesome.com/a3a6057ab4.js" crossorigin="anonymous"></script>
+        <script src="js/music-list.js"></script>
+        <script src="js/script.js"></script>
+
+        <script>
+            alert("Chào mừng đến với Trang Âm Nhạc.\n\nTại đây, chúng tôi cung cấp 5 bài nhạc tương ứng với 5 thể loại của sóng não. Thời lượng của mỗi bài nhạc thường khoảng 15 phút.\n\nNếu bạn muốn nghe những bài nhạc có thời lượng lâu hơn, xin hãy vào mục Video.");
+        </script>
+    </body>
+</html>
