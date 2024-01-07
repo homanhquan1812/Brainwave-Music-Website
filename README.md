@@ -1,4 +1,4 @@
-# Brainwave Website on Firebase
+# Brainwave Music Website
 This is the source of HCMUT Group 7's Brainwave Website Project on Firebase
 # Website address
 1. https://blob-hcmut.web.app
