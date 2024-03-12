@@ -3,9 +3,9 @@ Our website offers a variety of brainwave songs along with numerous other useful
 # Website address:
 > https://blob-hcmut.web.app or https://blob-hcmut.firebaseapp.com
 # Technologies used to build this website:
-1. Front-end: HTML, CSS, Javascript.
+1. Front-end: <b>HTML, CSS, Javascript</b>.
 2. Back-end: (None).
-3. Hosting: Firebase (free).
+3. Hosting: <b>Firebase</b> (free).
 # What's working?
 Almost everything.
 # Known Bugs:
