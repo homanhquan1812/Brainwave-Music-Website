@@ -1,6 +1,6 @@
 # Brainwave Music Website
 Our website offers a variety of brainwave songs along with numerous other useful tools and games designed to enhance your concentration for work or study.
-# Website address
+# Website address:
 > https://blob-hcmut.web.app
 > https://blob-hcmut.firebaseapp.com
 # Technologies used to build this website:
