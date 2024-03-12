@@ -1,11 +1,22 @@
 # Brainwave Music Website
-This is the source of HCMUT Group 7's Brainwave Website Project on Firebase
+Our website offers a variety of brainwave songs along with numerous other useful tools and games designed to enhance your concentration for work or study.
 # Website address
-1. https://blob-hcmut.web.app
-2. https://blob-hcmut.firebaseapp.com
+> https://blob-hcmut.web.app
+> https://blob-hcmut.firebaseapp.com
+# What's working?
+Almost everything.
+# Known Bugs:
+None
+> Contact us if you find any other bugs.
+# Features that need to be added:
+No suggestions so far.
+# Development Status:
+> End of support.
 # Credits
 1. Đào Quang Vinh - 2053586 - Database Developer
 2. Nguyễn Hoàng Minh - 2011617 - Database Developer
 3. Hồ Mạnh Quân - 1952941 - MISC Developer
 4. Đặng Quốc Huy - 2053031 - Homepage Developer
 5. Trương Toàn Khiêm - 1852465 - MISC Developer
+# Contacts
+> homanhquan1812@gmail.com
