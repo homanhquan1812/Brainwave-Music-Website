@@ -21,5 +21,3 @@ No suggestions so far.
 3. Hồ Mạnh Quân - 1952941 - MISC Developer
 4. Đặng Quốc Huy - 2053031 - Homepage Developer
 5. Trương Toàn Khiêm - 1852465 - MISC Developer
-# Contacts
-> homanhquan1812@gmail.com
