@@ -19,7 +19,7 @@ None
 # Features that need to be added:
 No suggestions so far.
 # Development Status:
-> End of support.
+> Finished + End of support.
 # Credits
 1. Đào Quang Vinh - 2053586 - Database Developer
 2. Nguyễn Hoàng Minh - 2011617 - Database Developer
