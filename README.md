@@ -1,4 +1,9 @@
 # Brainwave Music Website
+
+<div align="center">
+  <img src="https://blob-hcmut.web.app/en/icon/favicon.ico" alt="Brainwave Music Website Logo" width="300" style="">
+</div>
+
 Our website offers a variety of brainwave songs along with numerous other useful tools and games designed to enhance your concentration for work or study.
 # Website address:
 > https://blob-hcmut.web.app or https://blob-hcmut.firebaseapp.com
