@@ -5,7 +5,7 @@
 </div>
 
 Our website offers a variety of brainwave songs along with numerous other useful tools and games designed to enhance your concentration for work or study.
-# Website address:
+# Website address
 > https://blob-hcmut.web.app or https://blob-hcmut.firebaseapp.com
 # Technologies used to build this website:
 1. Front-end: <b>HTML, CSS, Javascript</b>.
@@ -13,9 +13,9 @@ Our website offers a variety of brainwave songs along with numerous other useful
 3. Hosting: <b>Firebase</b> (free).
 # Development Status:
 > Finished.
-# Known Bugs:
+# Known Bugs
 (None)
-# Features that need to be added:
+# Features that need to be added
 1. Authentication.
 2. Responsive Design.
 
