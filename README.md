@@ -16,8 +16,7 @@ Our website offers a variety of brainwave songs along with numerous other useful
 # Known bugs
 (None)
 # Features that need to be added
-1. Authentication.
-2. Responsive Design.
+1. Responsive Design.
 
 # Credits
 1. Đào Quang Vinh - 2053586 - Database Developer
