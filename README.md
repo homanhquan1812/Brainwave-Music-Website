@@ -11,18 +11,17 @@ Our website offers a variety of brainwave songs along with numerous other useful
 1. Front-end: <b>HTML, CSS, Javascript</b>.
 2. Back-end: (None).
 3. Hosting: <b>Firebase</b> (free).
-# What's working?
-Almost everything.
+# Development Status:
+> Finished.
 # Known Bugs:
 None
-> Contact us if you find any other bugs.
 # Features that need to be added:
-No suggestions so far.
-# Development Status:
-> Finished + End of support.
+1. Authentication.
+2. Responsive Design
+
 # Credits
 1. Đào Quang Vinh - 2053586 - Database Developer
 2. Nguyễn Hoàng Minh - 2011617 - Database Developer
-3. Hồ Mạnh Quân - 1952941 - MISC Developer
+3. Hồ Mạnh Quân - 1952941 - MISC Developer => <b>Leader</b>
 4. Đặng Quốc Huy - 2053031 - Homepage Developer
 5. Trương Toàn Khiêm - 1852465 - MISC Developer
