@@ -13,7 +13,7 @@ Our website offers a variety of brainwave songs along with numerous other useful
 3. Hosting: <b>Firebase</b> (free).
 # Development status
 > Finished.
-# Known Bugs
+# Known bugs
 (None)
 # Features that need to be added
 1. Authentication.
