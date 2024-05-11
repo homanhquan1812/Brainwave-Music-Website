@@ -15,6 +15,7 @@ Our website offers a variety of brainwave songs along with numerous other useful
 (None)
 # Features that need to be added
 1. Responsive Design.
+2. Authentification.
 # Development status
 > Finished.
 
