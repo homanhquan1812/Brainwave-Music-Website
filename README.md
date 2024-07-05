@@ -11,11 +11,8 @@ Our website offers a variety of brainwave songs along with numerous other useful
 1. Frontend: <b>HTML, CSS, Javascript</b>.
 2. Backend: (None).
 3. Hosting: <b>Firebase</b> (free).
-# Known bugs
+# Known issues
 (None)
-# Features that need to be added
-1. Responsive Design.
-2. Authentification.
 # Development status
 > Finished.
 
